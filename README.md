@@ -1,16 +1,7 @@
-# Basic Sample Hardhat Project
+# Wave Portal to send message waves and receive Ether!
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## This is a Dapp to send messages to the contract and receive Ether in return.
 
-Try running some of the following tasks:
+## Check it Out -> https://waveportal-baseline-student.shivashanmugana.repl.co/
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
-Wave Portal to send message waves and receive Ether!
+The Dapp is deployed in the Rinkeby Test Network, you can receive Rinkeby Test Ether as reward.
